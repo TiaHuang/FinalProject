@@ -21,6 +21,9 @@ Hardware:
 ![ThermoSleeve02](ThermoSleeve02.png)
 ![ThermoSleeve03](ThermoSleeve03.png)
 
+## Video
+Link to Youtube: https://www.youtube.com/watch?v=UaHAE8ORbsE
+
 ## Challenges
 I thought the hardest part was going to be incorporating the heat sensor in my program originally, but then it was fairly easy to connect it to my circuit. The most difficult issue that I encountered was that the code that I found for reading the temperature was in Fahrenheit, but I personally prefer to use Celsius, so I had to find the formula and convert the unit to Celsius. Writing the code for the lights was not too difficult, but it was pretty time-consuming to figure out which lights should light up for which temperatures. 
 I found code to set up the bargraph and temperature reading, but I had to modify them in order to make the lights light up according to the different temperatures that I want. 
